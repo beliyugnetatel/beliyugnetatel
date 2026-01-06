@@ -5,6 +5,6 @@
 - 💻 Experience with C++, Python, basic C#, HTML & CSS  
 - 🛠 Worked with Qt Creator (C++) and PostgreSQL (pgAdmin4)  
 - 🚀 Interested in building practical projects and improving code quality
-- My Steam account https://steamcommunity.com/id/beliyugnetatel/
+- My Steam profile https://steamcommunity.com/id/beliyugnetatel/
 
 

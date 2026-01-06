@@ -1,7 +1,10 @@
 ## BELIYUGNETATEL
 
 
-- 🌱 I’m currently learning Unreal Engine 5 - my goal is to work in GameDev🗣️🔥
-- 🔭 Familiar with C++, Python, a little bit of a C#, HTML and CSS
-- 🔭 Also have experience with QtCreator for C++ and PostgreSQL(pgAdmin4)
+🌱 Currently learning Unreal Engine 5, aiming to start a career in Game Development🗣️🔥
+🎮 Focused on gameplay systems, Blueprints, and C++ fundamentals  
+💻 Experience with C++, Python, basic C#, HTML & CSS  
+🛠 Worked with Qt Creator (C++) and PostgreSQL (pgAdmin4)  
+🚀 Interested in building practical projects and improving code quality
+
 
